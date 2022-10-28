@@ -10,7 +10,7 @@ public class PA1a {
 
 
 Scanner input = new Scanner(System.in);
-  
+   
 int yards,feet,inches;
 
 int final_inches;
