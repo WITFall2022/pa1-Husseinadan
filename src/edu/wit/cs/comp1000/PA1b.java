@@ -9,7 +9,7 @@ public class PA1b {
 	public static void main(String[] args) {
 		// TODO: write your code here
 Scanner input = new Scanner(System.in);
-		
+		 
 		int total_Inches;
 		System.out.printf("Enter total Inches  ");
 		total_Inches = input.nextInt();
