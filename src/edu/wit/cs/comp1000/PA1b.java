@@ -20,7 +20,7 @@ Scanner input = new Scanner(System.in);
 		int inchesI = (inchesF%12);
 
 		System.out.printf("Enter total Yards %d%n ",yards);
- 
+  
 
 		System.out.printf("Enter total Feet %d%n ",feet);
 
